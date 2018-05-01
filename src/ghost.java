@@ -6,6 +6,7 @@ import java.util.ArrayList;
 
 public class ghost 
 {
+	//what is dis
 	Color c;
 	int x;
 	int y;
